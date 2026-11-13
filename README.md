@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Sayan%20De&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Knowledge%20Graphs%20%C2%B7%20NLP%20%C2%B7%20Scholarly%20%26%20Agricultural%20QA&descSize=16&descAlignY=60" alt="Sayan De" width="100%"/>
+<img src="assets/cover.svg" alt="Sayan De" width="100%"/>
 
-<a href="https://github.com/Tec4Tric"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2C9CDB&center=true&vCenter=true&width=640&lines=Assistant+Professor+%7C+PhD+Scholar+at+IIIT+Kalyani;Building+knowledge+graphs+from+scientific+literature;NER+%C2%B7+Relation+Extraction+%C2%B7+GraphRAG;Question+answering+for+scholarly+%26+agricultural+text" alt="Typing animation"/></a>
+<a href="https://github.com/Tec4Tric"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2C9CDB&center=true&vCenter=true&width=760&lines=Assistant+Professor+%7C+PhD+Scholar+at+IIIT+Kalyani;Knowledge+graphs+from+scientific+literature;NER+%C2%B7+Relation+Extraction+%C2%B7+GraphRAG;Question+answering+for+scholarly+%26+agricultural+text" alt="Typing animation"/></a>
 
 <br/>
 
@@ -93,7 +93,5 @@ Forks I study and experiment with:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tec4Tric/Tec4Tric/output/github-snake-dark.svg"/>
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Tec4Tric/Tec4Tric/output/github-snake.svg"/>
 </picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" width="100%" alt=""/>
 
 </div>
