@@ -50,6 +50,11 @@ My work focuses on **knowledge graphs, NLP and question answering for scholarly 
 
 ## ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [What is a Knowledge Graph? &lpar;A Beginner’s Guide&rpar;](https://tec4tric.wordpress.com/2026/05/21/knowledge-graph-introduction/)
+- [Quantum Computer: Top 10 Real-World Applications](https://tec4tric.wordpress.com/2023/08/01/quantum-computer-application/)
+- [Enable FingerPrint Login in Ubuntu](https://tec4tric.wordpress.com/2021/02/27/enable-fingerprint-login-in-ubuntu/)
+- [Kernel and Shell in Linux – Simplest Explanation](https://tec4tric.wordpress.com/2020/12/23/kernel-shell-linux/)
+- [Hello World in C Programming – Learn to Code Easily](https://tec4tric.wordpress.com/2020/10/11/hello-world-c-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📚 Learning in public
