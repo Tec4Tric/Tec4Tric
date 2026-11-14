@@ -84,8 +84,8 @@ Forks I study and experiment with:
 ## 📊 GitHub stats
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tec4Tric&show_icons=true&hide_border=true&theme=transparent&title_color=2c9cdb&icon_color=2c9cdb&text_color=7d8590" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tec4Tric&layout=compact&hide_border=true&theme=transparent&title_color=2c9cdb&text_color=7d8590" alt="Top languages"/>
+<img height="200" src="assets/stats.svg" alt="GitHub stats"/>
+<img height="200" src="assets/langs.svg" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=Tec4Tric&hide_border=true&theme=transparent&ring=2c9cdb&fire=2c9cdb&currStreakLabel=2c9cdb" alt="Streak"/>
 
