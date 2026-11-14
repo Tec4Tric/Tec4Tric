@@ -46,7 +46,7 @@ My work focuses on **knowledge graphs, NLP and question answering for scholarly 
 - [**AgriQA**](https://github.com/Tec4Tric/AgriQA): a rubric-guided, pedagogy-aware question answering dataset for agricultural knowledge systems
 - [**ESWA-NER-RE**](https://github.com/Tec4Tric/ESWA-NER-RE): code and data for the Expert Systems with Applications paper
 - [**ScholarScoreQA**](https://github.com/Tec4Tric/ScholarScoreQA): K-Span Select and ScholarScore for scholarly QA
-- [**CIACON2026**](https://github.com/Tec4Tric/CIACON2026.github.io): conference website
+
 
 ## ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
@@ -57,11 +57,6 @@ My work focuses on **knowledge graphs, NLP and question answering for scholarly 
 - [Hello World in C Programming – Learn to Code Easily](https://tec4tric.wordpress.com/2020/10/11/hello-world-c-programming/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📚 Learning in public
-Forks I study and experiment with:
-- [LLMs-from-scratch](https://github.com/Tec4Tric/LLMs-from-scratch): a ChatGPT-like LLM in PyTorch, step by step
-- [reasoning-from-scratch](https://github.com/Tec4Tric/reasoning-from-scratch): a reasoning LLM in PyTorch, step by step
-- [LangGraph-Course-freeCodeCamp](https://github.com/Tec4Tric/LangGraph-Course-freeCodeCamp): LangGraph course code and exercises
 
 <details>
 <summary>🧪 Earlier projects (2020–2022)</summary>
@@ -74,18 +69,10 @@ Forks I study and experiment with:
 
 </details>
 
-## 🛠️ Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 ## 📊 GitHub stats
 <div align="center">
-
-<img height="200" src="assets/stats.svg" alt="GitHub stats"/>
-<img height="200" src="assets/langs.svg" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=Tec4Tric&hide_border=true&theme=transparent&ring=2c9cdb&fire=2c9cdb&currStreakLabel=2c9cdb" alt="Streak"/>
 
